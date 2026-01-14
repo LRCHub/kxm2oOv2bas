@@ -1,0 +1,136 @@
+{
+  "version": 1,
+  "base_track": "TEST ME",
+  "base_artist": "CHANMINA",
+  "createdAt": "2026-01-14T08:09:13.252716Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Don't Test Me",
+      "artist": "Skylar Stecker",
+      "has_synced": true,
+      "path": "select/01_Don't_Test_Me_Skylar_Stecker.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "Test Me",
+      "artist": "Melanie Martinez",
+      "has_synced": true,
+      "path": "select/02_Test_Me_Melanie_Martinez.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "Test Me",
+      "artist": "The xx",
+      "has_synced": true,
+      "path": "select/03_Test_Me_The_xx.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "Don't Test Me",
+      "artist": "Kingpin Skinny Pimp",
+      "has_synced": false,
+      "path": "select/04_Don't_Test_Me_Kingpin_Skinny_Pimp.txt"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "Don't Test Me (Pussy Boi)",
+      "artist": "Ramirez & Kendrick",
+      "has_synced": true,
+      "path": "select/05_Don't_Test_Me_(Pussy_Boi)_Ramirez_&_Kendrick.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "Dont Test Me (Pussy Boi)",
+      "artist": "RAMIREZ",
+      "has_synced": true,
+      "path": "select/06_Dont_Test_Me_(Pussy_Boi)_RAMIREZ.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "Don't Test Me II",
+      "artist": "Ramirez",
+      "has_synced": true,
+      "path": "select/07_Don't_Test_Me_II_Ramirez.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "Dont Test Me II",
+      "artist": "RAMIREZ",
+      "has_synced": true,
+      "path": "select/08_Dont_Test_Me_II_RAMIREZ.lrc"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "Don't Test Me Remix (feat. Wifisfuneral)",
+      "artist": "Xxxtentacion feat. Wifisfuneral",
+      "has_synced": true,
+      "path": "select/09_Don't_Test_Me_Remix_(feat._Wifisfuneral)_Xxxtentacion_feat._Wifisfuneral.lrc"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "Don't Test Me Remix (feat. Wifisfuneral)",
+      "artist": "Xxxtentacion; Wifisfuneral",
+      "has_synced": true,
+      "path": "select/10_Don't_Test_Me_Remix_(feat._Wifisfuneral)_Xxxtentacion;_Wifisfuneral.lrc"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "Test Me",
+      "artist": "The xx",
+      "has_synced": true,
+      "path": "select/11_Test_Me_The_xx.lrc"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "Test Me",
+      "artist": "Xdinary Heroes",
+      "has_synced": true,
+      "path": "select/12_Test_Me_Xdinary_Heroes.lrc"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "Don't Test Me",
+      "artist": "Ramirez",
+      "has_synced": true,
+      "path": "select/13_Don't_Test_Me_Ramirez.lrc"
+    },
+    {
+      "id": "lrclib_14",
+      "source": "lrclib",
+      "title": "Test Me",
+      "artist": "Jme",
+      "has_synced": true,
+      "path": "select/14_Test_Me_Jme.lrc"
+    },
+    {
+      "id": "lrclib_15",
+      "source": "lrclib",
+      "title": "Don't Test Me",
+      "artist": "Faith Evans feat. The Notorious B.I.G.",
+      "has_synced": true,
+      "path": "select/15_Don't_Test_Me_Faith_Evans_feat._The_Notorious_B.I.G..lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "TEST ME",
+      "artist": "ちゃんみな",
+      "has_synced": false,
+      "path": "select/pl_01_TEST_ME_ちゃんみな.txt"
+    }
+  ]
+}
